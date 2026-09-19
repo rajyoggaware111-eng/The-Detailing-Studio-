@@ -1,13 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Detailing Studio</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>APEX AUTO DETAILING</title>
+
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
     <h1>APEX AUTO DETAILING</h1>
+
     <p>Restore. Protect. Shine.</p>
+
+    <script src="script.js"></script>
 
 </body>
 </html>
